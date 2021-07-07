@@ -1,2 +1,2 @@
 # week3
-Github course week3 final assessment
+I'm editing the README file. Adding some more details about the project description.
